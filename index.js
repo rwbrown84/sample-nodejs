@@ -10,8 +10,8 @@ var lorem = new LoremIpsum({
     min: 4
   },
   wordsPerSentence: {
-    max: 16,
-    min: 4
+    max: 10,
+    min: 6
   }
 });
 
